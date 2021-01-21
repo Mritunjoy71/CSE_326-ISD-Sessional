@@ -1,0 +1,55 @@
+create table City (
+	City_Id INT,
+	Country_Id INT,
+	CIty_Name VARCHAR(50)
+);
+insert into City (City_Id, Country_Id, CIty_Name) values (1, 1, 'Zagreb');
+insert into City (City_Id, Country_Id, CIty_Name) values (2, 2, 'Grevená');
+insert into City (City_Id, Country_Id, CIty_Name) values (3, 3, 'Lokorae');
+insert into City (City_Id, Country_Id, CIty_Name) values (4, 4, 'Zhovti Vody');
+insert into City (City_Id, Country_Id, CIty_Name) values (5, 5, 'Ballymahon');
+insert into City (City_Id, Country_Id, CIty_Name) values (6, 6, 'Emalgolin Mongolzuxiang');
+insert into City (City_Id, Country_Id, CIty_Name) values (7, 7, 'Claver');
+insert into City (City_Id, Country_Id, CIty_Name) values (8, 8, 'Tagbina');
+insert into City (City_Id, Country_Id, CIty_Name) values (9, 9, 'Siilinjärvi');
+insert into City (City_Id, Country_Id, CIty_Name) values (10, 10, 'Bloemfontein');
+insert into City (City_Id, Country_Id, CIty_Name) values (11, 11, 'Amadeo');
+insert into City (City_Id, Country_Id, CIty_Name) values (12, 12, 'Bègles');
+insert into City (City_Id, Country_Id, CIty_Name) values (13, 13, 'Nizhyn');
+insert into City (City_Id, Country_Id, CIty_Name) values (14, 14, 'Shiban');
+insert into City (City_Id, Country_Id, CIty_Name) values (15, 15, 'Turku');
+insert into City (City_Id, Country_Id, CIty_Name) values (16, 16, 'Świdnica');
+insert into City (City_Id, Country_Id, CIty_Name) values (17, 17, 'San Agustin');
+insert into City (City_Id, Country_Id, CIty_Name) values (18, 18, 'Oyam');
+insert into City (City_Id, Country_Id, CIty_Name) values (19, 19, 'Dobroměřice');
+insert into City (City_Id, Country_Id, CIty_Name) values (20, 20, 'Vinhedo');
+insert into City (City_Id, Country_Id, CIty_Name) values (21, 21, 'Tamel');
+insert into City (City_Id, Country_Id, CIty_Name) values (22, 22, 'Plavy');
+insert into City (City_Id, Country_Id, CIty_Name) values (23, 23, 'Sabang');
+insert into City (City_Id, Country_Id, CIty_Name) values (24, 24, 'Zongluzui');
+insert into City (City_Id, Country_Id, CIty_Name) values (25, 25, 'Shangtang');
+insert into City (City_Id, Country_Id, CIty_Name) values (26, 26, 'El Tránsito');
+insert into City (City_Id, Country_Id, CIty_Name) values (27, 27, 'Chuchkovo');
+insert into City (City_Id, Country_Id, CIty_Name) values (28, 28, 'Frederiksberg');
+insert into City (City_Id, Country_Id, CIty_Name) values (29, 29, 'Bijeli');
+insert into City (City_Id, Country_Id, CIty_Name) values (30, 30, 'Chapayevka');
+insert into City (City_Id, Country_Id, CIty_Name) values (31, 31, 'Wujing');
+insert into City (City_Id, Country_Id, CIty_Name) values (32, 32, 'Mistřice');
+insert into City (City_Id, Country_Id, CIty_Name) values (33, 33, 'Itigi');
+insert into City (City_Id, Country_Id, CIty_Name) values (34, 34, 'Água de Pau');
+insert into City (City_Id, Country_Id, CIty_Name) values (35, 35, 'Kabaty');
+insert into City (City_Id, Country_Id, CIty_Name) values (36, 36, 'Ágio Pnévma');
+insert into City (City_Id, Country_Id, CIty_Name) values (37, 37, 'Gedaliang');
+insert into City (City_Id, Country_Id, CIty_Name) values (38, 38, 'Tsukumiura');
+insert into City (City_Id, Country_Id, CIty_Name) values (39, 39, 'Astara');
+insert into City (City_Id, Country_Id, CIty_Name) values (40, 40, 'Beixinjie');
+insert into City (City_Id, Country_Id, CIty_Name) values (41, 41, 'Skópelos');
+insert into City (City_Id, Country_Id, CIty_Name) values (42, 42, 'Gagarin');
+insert into City (City_Id, Country_Id, CIty_Name) values (43, 43, 'Cabannungan Second');
+insert into City (City_Id, Country_Id, CIty_Name) values (44, 44, 'Courbevoie');
+insert into City (City_Id, Country_Id, CIty_Name) values (45, 45, 'São Joaquim da Barra');
+insert into City (City_Id, Country_Id, CIty_Name) values (46, 46, 'Barkā’');
+insert into City (City_Id, Country_Id, CIty_Name) values (47, 47, 'Umeå');
+insert into City (City_Id, Country_Id, CIty_Name) values (48, 48, 'Bonebone');
+insert into City (City_Id, Country_Id, CIty_Name) values (49, 49, 'Hrvace');
+insert into City (City_Id, Country_Id, CIty_Name) values (50, 50, 'Jetis');
